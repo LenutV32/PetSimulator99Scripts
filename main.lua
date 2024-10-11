@@ -1,0 +1,2 @@
+-- YourScript.lua
+print("Hello")
